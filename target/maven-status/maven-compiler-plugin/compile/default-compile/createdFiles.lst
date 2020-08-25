@@ -1,0 +1,17 @@
+com\crm\qa\pages\ContactsPage.class
+com\crm\qa\pages\DealsPage.class
+com\crm\qa\pages\HomePage.class
+com\crm\qa\pages\TasksPage.class
+com\crm\qa\ExtentreportListener\ExtentReportListener.class
+com\crm\qa\pages\AppsPage.class
+com\crm\qa\pages\LoginPage.class
+com\crm\qa\pages\CRMPage.class
+com\crm\qa\pages\AboutPage.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\pages\PricingPage.class
+com\crm\qa\util\TestUtil.class
+com\crm\qa\pages\CompaniesPage.class
+com\crm\qa\pages\LoginCredentialsPage.class
+com\crm\qa\pages\SignUpPage.class
+com\crm\qa\util\WebEventListener.class
+com\crm\qa\pages\CalendarPage.class
